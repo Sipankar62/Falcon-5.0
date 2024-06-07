@@ -1,0 +1,34 @@
+
+*{
+    background-color: cadetblue;
+    font-style: italic;
+}
+body{
+
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.logo{
+    border: 5px solid red;
+    border-radius: 50%;
+    /* margin: 0px 100px 100px 600px; */
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+h2{
+    text-align: right;
+}
+button{
+      font-size: 30px;
+      color: brown;
+}
+button a{
+    text-decoration: none;
+}
+button a.hover{
+    background-color: chartreuse;
+}
